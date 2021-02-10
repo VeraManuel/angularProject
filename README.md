@@ -1,3 +1,5 @@
+This project takes part in the DjangProject Repository if you want to know where the data comes from
+
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
